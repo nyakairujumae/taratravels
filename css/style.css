@@ -201,7 +201,7 @@ main {
 .img-overlay p {
   font-size: 5rem;
   letter-spacing: 2px;
-  color: var(--white-color);
+  color: #ffa500;
   animation: animate 4s forwards;
 }
 

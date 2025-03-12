@@ -199,7 +199,7 @@ main {
 }
 
 .img-overlay p {
-  font-size: 1rem;
+  font-size: 5rem;
   letter-spacing: 2px;
   color: var(--white-color);
   animation: animate 4s forwards;
